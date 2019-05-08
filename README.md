@@ -1,4 +1,7 @@
 # ifurnace
 
-Internet of Things furnace control application
+IoT Enabled Smart Furnace Project Files. 
+Developed with @lukman008
+
+Firmware and Mobile App Codes 
 
